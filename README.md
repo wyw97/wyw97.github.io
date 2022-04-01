@@ -2,7 +2,11 @@
 
 Welcome to Yiwen Wang's personal website.
 
-You can use the [editor on GitHub](https://github.com/wyw97/wangyiwen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+PhD Candidate, EECS, Peking University
+
+Advisor: Xihong Wu, [Tianshu Qu](http://scholar.pku.edu.cn/qutianshu/)
+
+Email: pku\_wyw@pku.edu.cn
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
