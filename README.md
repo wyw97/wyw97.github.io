@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-Welcome to Yiwen Wang's personal website.
+## Welcome to Yiwen Wang's personal website.
 
 PhD Candidate, EECS, Peking University
 
@@ -8,36 +6,31 @@ Advisor: Xihong Wu, [Tianshu Qu](http://scholar.pku.edu.cn/qutianshu/)
 
 Email: pku\_wyw@pku.edu.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Biography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Sep. 2010 - **
 
-```markdown
-Syntax highlighted code block
+Ph.D. student, School of Artificial Intelligience, Peking University. 
 
-# Header 1
-## Header 2
-### Header 3
+**Sep. 2015 - July. 2019**
 
-- Bulleted
-- List
+Bachelor's student, Electronics Engineering and Computer Science, Peking University. 
 
-1. Numbered
-2. List
+### Research Interests
 
-**Bold** and _Italic_ and `Code` text
+\begin{itemize}
 
-[Link](url) and ![Image](src)
-```
+\item[*] speech enhancement and speech separation
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+\item[*] direction of arrival estimation
 
-### Jekyll Themes
+\item[*] acoustic model for automatic speech recognition
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wyw97/wangyiwen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+\item[*] sound field recording and reproduction
 
-### Support or Contact
+\item[*] higher order ambisonic analysis
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+\end{itemize}
+
+### 
