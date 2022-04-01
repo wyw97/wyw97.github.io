@@ -9,7 +9,8 @@ Email: pku\_wyw@pku.edu.cn
 
 ### Biography
 
-**Sep. 2010 - **
+
+**Sep. 2019 - July. 2024(?)**
 
 Ph.D. student, School of Artificial Intelligience, Peking University. 
 
@@ -19,18 +20,26 @@ Bachelor's student, Electronics Engineering and Computer Science, Peking Univers
 
 ### Research Interests
 
-\begin{itemize}
 
-\item[*] speech enhancement and speech separation
 
-\item[*] direction of arrival estimation
++ speech enhancement and speech separation
 
-\item[*] acoustic model for automatic speech recognition
++ direction of arrival estimation
 
-\item[*] sound field recording and reproduction
++ acoustic model for automatic speech recognition
 
-\item[*] higher order ambisonic analysis
++ sound field recording and reproduction
 
-\end{itemize}
++ higher order ambisonic analysis
 
-### 
+
+
+### Publications
+
++ [Direction of arrival estimation based on transfer function learning using autoencoder network. 148th AES Convention.](https://www.aes.org/e-lib/browse.cfm?elib=20787)
+
++ DP-DWA: DUAL-PATH DYNAMIC WEIGHT ATTENTION NETWORK WITH STREAMING DFSMN-SAN FOR AUTOMATIC SPEECH RECOGNITION. ICASSP 2022 (in press).
+
++ UP-WGAN: Upscaling Ambisonic Sound Scenes Using Wasserstein Generative Adversarial Networks. 152th AES Convention (in press).
+
+
