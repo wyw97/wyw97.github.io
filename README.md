@@ -55,5 +55,23 @@ Bachelor's student, Electronics Engineering and Computer Science, Peking Univers
 
 + Peng, C., **Wang, Y.**, Wu, X. and Qu, T., 2022, November. A Multi-channel Speech Separation System for Unknown Number of Multiple Speakers. In 2022 5th International Conference on Information Communication and Signal Processing (ICICSP) (pp. 158-162). IEEE.
 
+### Intern Experiments
 
+**Sep. 2020 - August. 2021**  
+
+Tencent AI Lab, Speech Group II, Beijing, China.
+
+Speech recognition, speech enhancement
+
+**Mar. 2020 - Jun. 2020**  
+
+Beijing Momo Technology
+
+Pitch extraction, autotune
+
+**Feb. 2019 - August. 2019**
+
+Bytedance, Beijing, China
+
+Recommendation Algorithm Intern
 
