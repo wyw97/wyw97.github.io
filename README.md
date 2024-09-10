@@ -1,5 +1,9 @@
 ## Welcome to Yiwen Wang's personal website.
 
+![王奕文-证件照](https://github.com/user-attachments/assets/fb176dbe-4cee-4322-85a6-25e45898890a)
+
+
+
 PhD Candidate, EECS, Peking University
 
 Advisor: [Xihong Wu](https://scholar.google.com/citations?user=0ZSjU8QAAAAJ&hl=en&oi=ao), [Tianshu Qu](http://scholar.pku.edu.cn/qutianshu/)
@@ -41,7 +45,7 @@ Bachelor's student, Electronics Engineering and Computer Science, Peking Univers
 
 ### Publications
 
-+ **Wang, Y.**, and Wu, X., 2024. TSE-PI: Target Sound Extraction under Reverberant Environments with Pitch Information. arXiv preprint arXiv:2406.08716. (Accpepted by Interspeech 2024)
++ **Wang, Y.**, Wu, X. (2024) TSE-PI: Target Sound Extraction under Reverberant Environments with Pitch Information. Proc. Interspeech 2024, 602-606, doi: 10.21437/Interspeech.2024-197
 
 + **Wang, Y.**, Lan, Z., Wu, X. and Qu, T., 2023, June. TT-Net: Dual-path transformer based sound field translation in the spherical harmonic domain. In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
 
