@@ -45,13 +45,17 @@ Bachelor's student, Electronics Engineering and Computer Science, Peking Univers
 
 ### Publications
 
-+ **Wang, Y.**, Wu, X. (2024) TSE-PI: Target Sound Extraction under Reverberant Environments with Pitch Information. Proc. Interspeech 2024, 602-606, doi: 10.21437/Interspeech.2024-197
++ **Wang, Y.**, Yuan, Z., & Wu, X. (2024). DENSE: Dynamic Embedding Causal Target Speech Extraction. arXiv preprint arXiv:2409.06136.[\[Demo\]](https://wyw97.github.io/DENSE/) [\[Code\]](https://github.com/wyw97/DENSE)
+
++ **Wang, Y.**, Wu, X. (2024) TSE-PI: Target Sound Extraction under Reverberant Environments with Pitch Information. Proc. Interspeech 2024, 602-606, doi: 10.21437/Interspeech.2024-197.  [\[Demo\]](https://wyw97.github.io/TSE_PI/) [\[Code\]](https://github.com/wyw97/TSE_PI)
 
 + **Wang, Y.**, Lan, Z., Wu, X. and Qu, T., 2023, June. TT-Net: Dual-path transformer based sound field translation in the spherical harmonic domain. In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
 
 + **Wang, Y.**, Wu, X. and Qu, T., 2022, May. Up-wgan: Upscaling ambisonic sound scenes using wasserstein generative adversarial networks. In Audio Engineering Society Convention 152. Audio Engineering Society.
 
 + **Wang, Y.**, Wu, X. and Qu, T., 2020, May. Direction of arrival estimation based on transfer function learning using autoencoder network. In Audio Engineering Society Convention 148. Audio Engineering Society.
+
++ Wu, D., **Wang, Y.**, Wu, X., & Qu, T. (2024). Cross-attention Inspired Selective State Space Models for Target Sound Extraction. arXiv preprint arXiv:2409.04803.
 
 + Li, X., **Wang, Y.**, Sun, Y., Wu, X. and Chen, J., 2023, June. PGSS: pitch-guided speech separation. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 37, No. 11, pp. 13130-13138).
 
