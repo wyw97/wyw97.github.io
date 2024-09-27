@@ -1,16 +1,16 @@
 ## Welcome to Yiwen Wang's personal website.
 
-![王奕文-证件照](https://github.com/user-attachments/assets/fb176dbe-4cee-4322-85a6-25e45898890a)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>PhD Candidate, EECS, Peking University</p>
+    <p>Advisor: <a href="https://scholar.google.com/citations?user=0ZSjU8QAAAAJ&hl=en&oi=ao">Xihong Wu</a>, <a href="http://scholar.pku.edu.cn/qutianshu/">Tianshu Qu</a></p>
+    <p>Email: pku_wyw@pku.edu.cn</p>
+    <p>Scholar: <a href="https://scholar.google.com/citations?user=cWhk17oAAAAJ&hl=en">Google Scholar</a></p>
+  </div>
+  <img src="https://github.com/user-attachments/assets/fb176dbe-4cee-4322-85a6-25e45898890a" alt="王奕文-证件照" width="150" style="margin-left: 20px;" />
+</div>
 
 
-
-PhD Candidate, EECS, Peking University
-
-Advisor: [Xihong Wu](https://scholar.google.com/citations?user=0ZSjU8QAAAAJ&hl=en&oi=ao), [Tianshu Qu](http://scholar.pku.edu.cn/qutianshu/)
-
-Email: pku\_wyw@pku.edu.cn
-
-Scholar: [Google Scholar](https://scholar.google.com/citations?user=cWhk17oAAAAJ&hl=en)
 
 
 ### Biography
